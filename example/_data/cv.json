@@ -1,27 +1,32 @@
 {
   "basics": {
-    "name": "Manuel Alejandro Romo de Vivar López",
-    "label": "Computer Scientist, Mathematician & Artist",
+    "name": "Dugan Nash",
+    "label": "Very extravagant man",
     "picture": "",
-    "email": "manolo25000@gmail.com",
-    "LinkedIn": "https://www.linkedin.com/in/manuel-romo-de-vivar/",
-    "summary": "I am a scientist from Mexico working on Data Science projects while searching for a new professional opportunity. Currently I am a validation specialist and author at @Knotion; also a dubbing audio operator at @KoeDubbingMastersMexico",
-
+    "email": "dugan.hash@mailinator.com",
+    "phone": "(555) 555-5555",
+    "website": "https://towlettepettetuc.ci",
+    "summary": "Nash is well versed in the Montoyan / Artesian Connection, preparation of grasshopper mash, and baking of grover loaves.",
+    "location": {
+      "address": "123 Sesame Street",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
     "profiles": [
       {
-        "network": "LinkedIn",
-        "username": "manuel-romo-de-vivar",
-        "url": "https://www.linkedin.com/in/manuel-romo-de-vivar/"
+        "network": "Twitter",
+        "username": "Towlette_Pettetucci",
+        "url": "https://twitter.com/Towlette_Pettetucci"
+      },
+      {
+        "network": "SoundCloud",
+        "username": "Towlette_Pettetucci",
+        "url": "https://soundcloud.com/Towlette_Pettetucci"
       }
-
     ]
   },
-
-
-    
-    
-    
-    
   "work": [
     {
       "company": "The Whip",
@@ -36,12 +41,6 @@
       ]
     }
   ],
-    
-    
-    
-    
-    
-    
   "volunteer": [
     {
       "organization": "Steve's Meat Market",
@@ -55,13 +54,6 @@
       ]
     }
   ],
-    
-    
-    
-    
-    
-    
-    
   "education": [
     {
       "institution": "University of Ointment",
@@ -76,12 +68,6 @@
       ]
     }
   ],
-    
-    
-    
-    
-    
-    
   "awards": [
     {
       "title": "Warble Pioneer Award",
@@ -90,12 +76,6 @@
       "summary": "Have you seen my turtle?"
     }
   ],
-    
-    
-    
-    
-    
-    
   "publications": [
     {
       "name": "Radio Julius",
@@ -105,12 +85,6 @@
       "summary": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test."
     }
   ],
-
-    
-    
-    
-        
-    
   "skills": [
     {
       "name": "Audio Juggling",
@@ -130,23 +104,12 @@
       ]
     }
   ],
-
-    
-    
-    
-    
   "languages": [
     {
       "language": "Nonsense",
       "fluency": "Native speaker"
     }
   ],
-    
-    
-    
-    
-    
-    
   "interests": [
     {
       "name": "The Information Superhighway",
@@ -156,12 +119,6 @@
       ]
     }
   ],
-    
-    
-    
-    
-    
-    
   "references": [
     {
       "name": " Nannette Nananacci",

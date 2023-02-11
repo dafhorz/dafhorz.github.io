@@ -4,5 +4,5 @@ layout: cv
 actions:
   - label: "Download as PDF"
     icon: pdf
-    url: "./assets/ManuelRomo_CV_En.pdf"
+    url: "#pdf-asset"
 ---
