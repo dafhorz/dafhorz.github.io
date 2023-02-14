@@ -26,12 +26,15 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author: 
   name: Manu Romo
-  #picture: assets/images/me.png
+  picture: /assets/images/manu_romo_logo.png
 twitter_username: TwitterUserAtConfig.yml
 github_username:  dafhorz
+logo: /assets/images/manu_romo_logo.png
 #logo: /assets/images/logo.svg
 
+
 # Build settings
+markdown: kramdown
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins:
   - jekyll-feed
@@ -64,3 +67,29 @@ paginate_path: /page:num/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+
+# Collections
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+    
+    
+# Front Matter Defaults
+defaults:
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      read_time: true
+  # _recipes
+  - scope:
+      path: "_recipes"
+      type: recipes
+    values:
+      layout: post
+      read_time: true
