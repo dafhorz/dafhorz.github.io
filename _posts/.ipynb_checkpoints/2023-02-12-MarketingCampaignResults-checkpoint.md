@@ -6,7 +6,7 @@ categories: ETL, Python, MySQL, Pandas, Tableau
 ---
 
 
-Following 'Maven Analytics' questions as a guideline, I did a whole ETL pipeline process and presented it in a Tableau dashboard (can be seen [right here]). 
+Following 'Maven Analytics' questions as a guideline, I did a whole ETL pipeline process and presented it in a Tableau dashboard (which can be seen [right here]). 
 
 I extracted the data from [MarketingDataSet], cleaned and transformed the dataset using Pandas, exported the processed file(as CSV) and loaded the set to MySQL (pymsql). The whole explanation can be seen in the Notebook stored right here: [MarketingNotebook].
 
