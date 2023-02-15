@@ -33,6 +33,13 @@ logo: /assets/images/manu_romo_logocirc.png
 #logo: /assets/images/logo.svg
 
 
+
+# Liquid
+liquid:
+  error_mode: strict
+  
+  
+  
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
@@ -45,8 +52,8 @@ plugins:
 feed:
   path: atom.xml
 
-paginate: 10
-paginate_path: /page:num/
+paginate: 5
+paginate_path: _posts/page:num/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
