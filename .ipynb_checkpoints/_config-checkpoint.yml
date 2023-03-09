@@ -21,7 +21,7 @@
 title: Manu Romo @ Github
 email: manolo25000@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my Data science portafolio. Right here you can find several projects and notes oriented towards data analysis, BI Analysis and perhaps Data Engineering.
+  This is my Data Science portafolio. Right here you can find several projects and notes oriented towards Data analysis, BI Analysis and perhaps Data Engineering.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author: 
