@@ -5,6 +5,8 @@ date:   2023-02-12 00:43:33 -0600
 categories: Python, SEO, Pandas, Visualization, Requests
 ---
 
+TO BE UPDATED:
+FILES ARE NOT READY YET
 
 Analyzed a [dataset from 'Dunkin'] uploaded by Meagan Voulo. It consists of 10,000 keywords pulled from SEMrush by (supposedly) the Marketing Department at Dunkin'. The project can be seen [right here].
 
