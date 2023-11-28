@@ -1,8 +1,18 @@
 ---
 layout: post
-title:  "Project: SEO Dunkin"
-date:   2023-02-12 00:43:33 -0600
-categories: Python, SEO, Pandas, Visualization, Requests
+title:  "Self Research: SEO Dunkin"
+date:   2023-02-12 00:40:33 -0600
+categories: SEO Marketing Growth
+tags:
+  - Python
+  - SEO
+  - Pandas
+  - Visualization
+  - Requests
+permalink: /SEO_Dunkin
+image: 
+  path: /assets/images/dunkin.jpg
+  thumbnail: /assets/images/dunkin-400x200.jpg
 ---
 
 TO BE UPDATED:

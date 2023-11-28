@@ -27,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author: 
   name: Manu Romo
   picture: /assets/images/manu_romo_logo.png
-twitter_username: TwitterUserAtConfig.yml
+#twitter_username: TwitterUserAtConfig.yml
 github_username:  dafhorz
 logo: /assets/images/manu_romo_logocirc.png
 #logo: /assets/images/logo.svg

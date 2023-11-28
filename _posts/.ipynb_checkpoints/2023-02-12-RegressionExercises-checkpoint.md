@@ -1,8 +1,17 @@
 ---
 layout: post
-title:  "Exercises: Regression (StatsModels and Scikit-Learn)"
-date:   2023-02-12 00:40:30 -0600
-categories: Regression, StatsModels, Scikit-Learn
+title:  "Regression Excercises (StatsModels and Scikit-Learn)"
+date:   2023-01-01 00:50:30 -0600
+categories: Notes
+tags:
+  - Notes
+  - Regression
+  - StatsModels
+  - ML
+permalink: /Data_RegressionExcercises
+image: 
+  path: /assets/images/regression.png
+  thumbnail: /assets/images/regression-400x200.png
 ---
 
 

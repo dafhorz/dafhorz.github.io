@@ -1,8 +1,20 @@
 ---
 layout: post
 title:  "Notes and Tutorials"
-date:   2023-02-12 00:40:33 -0600
-categories: ETL, EDA, Pandas, Matplotlib, Seaborn
+date:   2023-01-01 00:40:33 -0600
+categories: Notes
+tags:
+  - Notes
+  - ETL
+  - EDA
+  - Pandas
+  - Matplotlib
+  - Wrangling
+  - SQL
+permalink: /Data_Tutorial-Notes
+image: 
+  path: /assets/images/data-science.jpg
+  thumbnail: /assets/images/data-science-400x200.jpg
 ---
 
 

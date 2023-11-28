@@ -1,8 +1,20 @@
 ---
 layout: post
-title:  "Project: Marketing Campaign Results"
+title:  "Marketing Campaign Results"
 date:   2023-02-12 00:43:33 -0600
-categories: ETL, Python, MySQL, Pandas, Tableau
+categories: Marketing
+tags:
+  - ETL
+  - Tableau
+  - Dashboard
+  - SQL
+  - Python
+  - Pandas
+permalink: /MarketingCampaignResults
+image: 
+  path: /assets/images/retail-store.jpg
+  thumbnail: /assets/images/retail-store-400x200.jpg
+  caption: "Photo from [Pexels](https://www.pexels.com)"
 ---
 
 
