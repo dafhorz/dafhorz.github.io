@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Data Wrangling Challenge in Excel"
+title:  "Data Wrangling Challenge in Excel: Salary Survey 2021"
 date:   2023-02-12 00:33:33 -0600
 categories: Wrangling
 tags:
