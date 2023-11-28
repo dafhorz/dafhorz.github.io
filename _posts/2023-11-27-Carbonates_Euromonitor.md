@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Euromonitor: Carbonates - Analysis & C-Level Presentation"
+title:  "Euromonitor: Carbonates - Statistical Analysis & C-Level Presentation"
 date:   2023-04-16 00:43:33 -0600
 categories: Marketing
 tags:
