@@ -41,19 +41,15 @@ Through an exploration analysis, *canceled service* seemed to be managed as an *
 ### Wrangling
 A very subtle change in the format of the product catalogue helps to automatize and prevent errors.
 <figure class="align-center">
-  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Proper_Internet_Insights/catalogo-antes.jpg" alt=""></a>
+  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Proper_Internet_Insights/catalogo-antes.JPG" alt=""></a>
   <figcaption>Product catalogue before.</figcaption>
 </figure>  
 
 <figure class="align-center">
-  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Proper_Internet_Insights/catalogo-despues.jpg" alt=""></a>
+  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Proper_Internet_Insights/catalogo-despues.JPG" alt=""></a>
   <figcaption>Product catalogue after.</figcaption>
 </figure> 
 
-<figure class="align-center">
-  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Proper_Internet_Insights/catalogo-despues.jpg" alt=""></a>
-  <figcaption>The blue line represents the popularity of Olipop, which gains popularity ot the second half of 2020. Being more popular than 'coke' on 2021.</figcaption>
-</figure>  
 
 
 Now is easy to use *XLOOKUP* and conditional formatting to fix the sales report. Here's a summary: 
