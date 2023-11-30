@@ -35,7 +35,7 @@ Age and hours per week are converted into categorical variables by placing them 
 
 # Formula
 <figure class="align-center">
-  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Simple_Naive-Bayes/formula.jpg" alt=""></a>
+  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Simple_Naive-Bayes/formula.JPG" alt=""></a>
   <figcaption>Product catalogue before.</figcaption>
 </figure> 
 

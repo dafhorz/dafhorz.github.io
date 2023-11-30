@@ -21,12 +21,12 @@ This is a challenge I took part in. I handled an eccentric Excel Salary Survey d
 Here's two screenshots for you to get an idea of how the challenge looks:
 
 <figure class="align-center">
-  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Excel_Wrangling_Challenge/before.jpg" alt=""></a>
+  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Excel_Wrangling_Challenge/before.JPG" alt=""></a>
   <figcaption>Dataset before.</figcaption>
 </figure> 
 
 <figure class="align-center">
-  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Excel_Wrangling_Challenge/after.jpg" alt=""></a>
+  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Excel_Wrangling_Challenge/after.JPG" alt=""></a>
   <figcaption>Dataset after.</figcaption>
 </figure> 
 

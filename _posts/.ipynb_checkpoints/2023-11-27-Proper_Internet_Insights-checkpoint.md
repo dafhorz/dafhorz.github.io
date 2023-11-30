@@ -54,10 +54,10 @@ A very subtle change in the format of the product catalogue helps to automatize 
 
 Now is easy to use *XLOOKUP* and conditional formatting to fix the sales report. Here's a summary: 
 <figure class="align-center">
-  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Proper_Internet_Insights/facturacion-antes.jpg" alt=""></a>
+  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Proper_Internet_Insights/facturacion-antes.JPG" alt=""></a>
   <figcaption>Billing summary before.</figcaption>
 </figure>  <figure class="align-center">
-  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Proper_Internet_Insights/facturacion-despues.jpg" alt=""></a>
+  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Proper_Internet_Insights/facturacion-despues.JPG" alt=""></a>
   <figcaption>Billing summary after.</figcaption>
 </figure> 
 

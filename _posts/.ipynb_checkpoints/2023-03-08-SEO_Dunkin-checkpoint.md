@@ -31,5 +31,7 @@ In this exploration exercise, I analyzed a [dataset] sourced from Dunkin's Marke
 
 The whole point of this self research project was to prepare for the Envato-Mixkit project. While the exercise does not yield conclusive findings, it captures my curiosity, willing to learn, prepare and analytical skills.
 
+[Link here]
+
 [dataset]: https://raw.githubusercontent.com/meagvo/DunkinDonutsSEOproject/master/dunkin.csv
-[right here]: https://github.com/dafhorz/SEO_dunkin
+[Link here]: https://github.com/dafhorz/SEO_dunkin
