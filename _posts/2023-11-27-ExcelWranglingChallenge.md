@@ -13,6 +13,7 @@ image:
   thumbnail: /assets/images/excel-400x200.jpg
 ---
 ## Summary
+This is a challenge I took part in. I handled an eccentric Excel Salary Survey dataset, transforming complex characters and data into usable information. I cleaned up and organized the information, using different tools to find patterns. This challenge provided an opportunity to test my efficiency working in Excel. In this post, I will describe my process."
 
 # **Important**
 **In order not to give away the solution for anybody who is attempting the same challenge, I will not make it public, but I will describe vaguely procedure.**
