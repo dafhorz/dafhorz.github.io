@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Simple Naive-Bayes Implementation"
-date:   2023-07-20 00:43:33 -0600
+date:   2023-02-12 00:20:33 -0600
 categories: Algorithms
 tags:
   - Classifier
@@ -15,6 +15,8 @@ image:
 
 ## Summary
 This is an implementation for a simple naive bayes algorithm, a probabilistic classification algorithm based on Bayes' theorem, which assumes that the features used to describe an observation are conditionally independent, given the class label. Despite its "naive" assumption of independence, it often performs well in practice, especially for text classification tasks. It is then applied to a dataset that deals with adults profiles and their income. 
+
+[Link to the project]
 
 ### Details
 This implementation computes a score for each value on each variable and with respect their income. The variables covered in the dataset are:
@@ -49,3 +51,5 @@ N~C: is the total number of elements in the non-class.
 
 ### Observations
 Because the dataset is overpopulated by white USA males, people from other countries in a good situation may automatically be "well-classified". 
+
+[Link to the project]: https://github.com/dafhorz/Simple_Naive-Bayes
