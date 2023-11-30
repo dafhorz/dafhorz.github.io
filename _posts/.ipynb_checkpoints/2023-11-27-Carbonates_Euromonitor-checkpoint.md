@@ -9,14 +9,14 @@ tags:
   - Python
   - Excel
   - Power Point
+  - API
 permalink: /Carbonates_Euromonitor
 image: 
   path: /assets/images/olipop.jpg
   thumbnail: /assets/images/olipop-400x200.jpg
 ---
-
-Due to confidenciality of the enterprise and data privacy, this project is not available to download. So I'll limit myself to share very few details.
-
+## Summary
+In response to the client's need to penetrate the US and/or Mexican soft drinks markets, a comprehensive analysis was conducted covering market performance, trends, and future outlook. Key insights include the establishment of a new status quo during the pandemics. Recommendations for Mexico emphasize health concerns, sustainability, and e-commerce, while in the US, the focus is on using natural ingredients, analysis on flavor, and sustainability. The concise 5-slide presentation ensures the client receives crucial information efficiently for their imminent board meeting.
 
 ## Achievements
 **Market Analysis & C-Level Presentation**
@@ -28,8 +28,9 @@ Due to confidenciality of the enterprise and data privacy, this project is not a
 **Actionable Recommendations**
 : Formulated actionable recommendations tailored to each market, addressing consume trends, health concerns, sustainability, and e-commerce channel investment.
 
-## Summary
-In response to the client's need to penetrate the US and/or Mexican soft drinks markets, a comprehensive analysis was conducted covering market performance, trends, and future outlook. Key insights include the establishment of a new status quo during the pandemics. Recommendations for Mexico emphasize health concerns, sustainability, and e-commerce, while in the US, the focus is on using natural ingredients, analysis on flavor, and sustainability. The concise 5-slide presentation ensures the client receives crucial information efficiently for their imminent board meeting.
+
+# **Important**
+**Due to confidenciality of the enterprise and data privacy, this project is not available to download. So I'll limit myself to share very few details.**
 
 ## Procedure
 

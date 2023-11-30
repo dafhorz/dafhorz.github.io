@@ -14,8 +14,6 @@ image:
   thumbnail: /assets/images/internet-provider-400x200.jpg
 ---
 
-Due to confidenciality of the enterprise and data privacy, this project is not available to download. So I'll limit myself to share very few details.
-
 ## Summary
 Utilized Excel for comprehensive data analysis and error rectification in an Internet Service Provider's billing system, resulting in substantial cost savings. Identified strategic insights, which were presented through a user-friendly dashboard, and proposed proactive error strategies to enhance overall operational efficiency.
 
@@ -28,6 +26,9 @@ Utilized Excel for comprehensive data analysis and error rectification in an Int
 
 **Proactive Error Strategies**
 :  Introduced proactive error strategies by analyzing date patterns and incomplete records, addressing potential issues.
+
+# **Important**
+**Due to confidenciality of the enterprise and data privacy, this project is not available to download. So I'll limit myself to share very few details.**
 
 ## Procedure
 
