@@ -30,7 +30,7 @@ In response to the client's need to penetrate the US and/or Mexican soft drinks 
 
 
 # **Important**
-**Due to confidenciality of the enterprise and data privacy, this project is not available to download. So I'll limit myself to share very few details.**
+**Due to confidenciality of the enterprise and data privacy, this project is not available to download. So I'll limit myself to share brief supporting data I collected from external sources that do not make direct reference to Euromonitor's reports.**
 
 ## Procedure
 

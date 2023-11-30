@@ -30,10 +30,12 @@ In this project, I conducted an in-depth analysis of Googlebot crawls, assessed 
 **Web Crawling Analysis**
 :  Conducted an exhaustive examination of Googlebot crawls, allowing to detect landing webpages on an https 400s status and a high number of crawls landing on 304 status; which may be consuming unnecesary crawling budget (up to 60,000 crawls monthly).
 
+**Keyword Research and Strategic Keyword Recommendations**
+: Taking into account the top performing keywords, I proposed new important and competitive seasonal keywords the site should try to rank for.
+
 # **Important**
 **Due to confidenciality of the enterprise and data privacy, this project is not available to download. So I'll limit myself to share very few details.**
 
-## Procedure
 
 ### Objective
 > you were tasked with conducting a comprehensive analysis covering web crawling behavior, URL performance alignment, and geo-traffic segmentation for conversion optimization. You delved into global performance metrics, identified key pages, assessed the impact of non-Asian countries on conversions, and determined rankings in a specific Asian country. Furthermore, you estimated potential gains through improved click-through rates (CTR) and identified critical keywords, showcasing a strategic understanding of Mixkit's competitive landscape. Overall, the project aimed to provide valuable insights for optimization strategies and enhance the site's competitive positioning.
