@@ -18,7 +18,7 @@ image:
 ---
 
 ## Summary
-In response to Maven Analytics' Marketing Campaign dataset, I conducted a robust ETL pipeline using Pandas, extracting and transforming the data before loading it into MySQL. The subsequent statistical analysis addressed crucial business questions related to web purchases, campaign success, product performance, and channel effectiveness. I identified potential growth opportunities in Mexico based on spending patterns, proposing a strategic focus on web purchases and consumer insights through marketing campaigns. The approach is detailed in the following: Files within a [Github Reporitory] and a [Tableau Dashboard].
+In response to a Marketing Campaign Analysis challenge, I conducted a robust ETL pipeline using Pandas, extracting and transforming the data before loading it into MySQL. The subsequent statistical analysis addressed crucial business questions related to web purchases, campaign success, product performance, and channel effectiveness. I identified potential growth opportunities in Mexico based on spending patterns, proposing a strategic focus on web purchases and consumer insights through marketing campaigns. The approach is detailed in the following: Files within a [Github Reporitory] and a [Tableau Dashboard].
 
 
 ## Achievements
