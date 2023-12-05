@@ -7,15 +7,15 @@ actions:
     url: "./assets/ManuelRomo_Art_CV_Es.pdf"
 permalink: /art/
 images:
-  - image_path: ../assets/images/Art_Resume/mago1.JPG
+  - image_path: ../assets/images/Art_Resume/mago1.jpg
     title: Hombre de Hojalata
-  - image_path: ../assets/images/Art_Resume/mago2.JPG
+  - image_path: ../assets/images/Art_Resume/mago2.jpg
     title: Elenco de Buscando al Maravilloso Mago de Oz
-  - image_path: ../assets/images/Art_Resume/klaus1.JPG
+  - image_path: ../assets/images/Art_Resume/klaus1.jpg
     title: Klaus Kickenklober
-  - image_path: ../assets/images/Art_Resume/klaus2.JPG
+  - image_path: ../assets/images/Art_Resume/klaus2.jpg
     title: Klaus vs Johnny
-  - image_path: ../assets/images/Art_Resume/klaus3.JPG
+  - image_path: ../assets/images/Art_Resume/klaus3.jpg
     title: Klaus batalla
 ---
 
