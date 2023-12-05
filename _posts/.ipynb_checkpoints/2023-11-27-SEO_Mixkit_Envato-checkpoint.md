@@ -34,7 +34,7 @@ In this project, I conducted an in-depth analysis of Googlebot crawls, assessed 
 : Taking into account the top performing keywords, I proposed new important and competitive seasonal keywords the site should try to rank for.
 
 # **Important**
-**Due to confidenciality of the enterprise and data privacy, this project is not available to download. So I'll limit myself to share very few details.**
+**Due to confidenciality of the enterprise and data privacy, this project is not available to download. So I limited myself to share my achievements.**
 
 
 ### Objective
