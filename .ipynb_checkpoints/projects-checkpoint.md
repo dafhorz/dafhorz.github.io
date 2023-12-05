@@ -10,7 +10,6 @@ To by [skills].
 
 
 
-{% include icon-youtube.html username='zoobidoobidoo' label='zoobidoobidoo' %}
 
 
 [categories]: ./categories

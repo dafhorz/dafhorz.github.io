@@ -1,0 +1,4 @@
+<a href="https://open.spotify.com/artist/{{ include.username }}">
+  <span class="icon icon--spotify">{% include icon-spotify.svg %}</span>
+  <span class="label">{{ include.label | default: include.username }}</span>
+</a>

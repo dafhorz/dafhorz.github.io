@@ -1,0 +1,41 @@
+{% if cv.research %}
+  <div id="research" class="entry">
+    <header class="entry-header">
+      <h3 class="entry-title">{{ site.data.theme.t.cv_research | default: 'Research' }}</h3>
+    </header>
+
+    <div class="entry-content">
+      {% for w in cv.research %}
+        {% if w.company %}
+          <h3 class="name">
+            {% if w.website %}
+              <a href="{{ w.website }}">{{ w.company }}</a>
+            {% else %}
+              {{ w.company }}
+            {% endif %}
+          </h3>
+        {% endif %}
+        {% if w.topic %}
+          <h4 class="topic">{{ w.topic }}</h4>
+        {% endif %}
+        <div class="date">
+          {% if w.startDate %}
+            <span class="startDate">{{ w.startDate }}</span>
+          {% endif %}
+        </div>
+        {% if w.summary %}
+          <div class="summary">
+            <p>{{ w.summary }}</p>
+          </div>
+        {% endif %}
+        {% if w.highlights %}
+          <ul class="highlights">
+            {% for highlight in w.highlights %}
+              <li>{{ highlight }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+{% endif %}

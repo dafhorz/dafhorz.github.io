@@ -113,20 +113,23 @@
     
   "skills": [
     {
-      "name": "Audio Juggling",
+      "name": "Data Analysis",
       "level": "Master",
       "keywords": [
-        "Ointment",
-        "Voltor",
-        "Millipedes"
+        "ETL",
+        "Cleaning",
+        "Wrangling",
+        "Visualization",
+        "Reporting",
+        "Presenting"
       ]
     },
     {
-      "name": "Bruschotti",
+      "name": "Statistics",
       "level": "Satisfactory",
       "keywords": [
-        "Snow camp",
-        "Owl"
+        "Ingerential and Descriptive Statistics",
+        "Regression"
       ]
     }
   ],

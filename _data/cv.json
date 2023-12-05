@@ -5,15 +5,315 @@
     "picture": "",
     "email": "manolo25000@gmail.com",
     "LinkedIn": "https://www.linkedin.com/in/manuel-romo-de-vivar/",
-    "summary": "I am a scientist from Mexico working on Data Science projects while searching for a new professional opportunity. Currently I am a validation specialist and author at @Knotion; also a dubbing audio operator at @KoeDubbingMastersMexico",
+    "summary": "I am a scientist from Mexico working on Data Science projects while searching for a new professional opportunity. Currently I am a validation specialist and author at @Knotion; also a dubbing audio operator at @KoeDubbingMastersMexico ",
 
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "manuel-romo-de-vivar",
         "url": "https://www.linkedin.com/in/manuel-romo-de-vivar/"
-      }
+      },
+      {
+        "network": "Github",
+        "username": "dafhorz",
+        "url": "https://github.com/dafhorz"
+      } 
 
     ]
-  }
+  },
+
+
+    
+    
+    
+    
+  "work": [
+    {
+      "company": "Freelance & Self Research",
+      "position": "Data Analyst",
+      "website": "https://dafhorz.github.io/data_projects/",
+      "startDate": "2023-01-01",
+      "endDate": "",
+      "summary": "Leveraged data analysis expertise in self-research and freelancing projects, including data wrangling, API requests, ETL pipeline execution, statistical analysis, data visualization, dashboarding and strategic insights development. Applied tools such as Python, Pandas, Excel, SQL, and Tableau. A link to a list of my projects and a description of each is provided in the title of this role.",
+      "highlights": [
+        "Data Analysis",
+        "Business Intelligence Analyst",
+        "Marketing Analytics",
+        "Statistics"
+      ]
+    },
+
+
+
+    {
+      "company": "Knotion",
+      "position": "Author - Mathematics",
+      "website": "https://www.knotion.com",
+      "startDate": "2022-07-01",
+      "endDate": "",
+      "summary": "Innovative Author at Knotion, specializing in dynamic Methodology Development for the Mathematics department. Transformed traditional didactic sequences into engaging content, featuring diverse mediums like infographics, interactives and videos. Employed active teaching techniques to simplify complex topics, fostering a holistic student-centric learning environment.",
+      "highlights": [
+        "Content Creation",
+        "Instructional Design",
+        "Active Methodology Development",
+        "Authorship"
+      ]
+    },
+
+
+    {
+      "company": "Knotion",
+      "position": "Academic Validator & Mathematics Specialist",
+      "website": "https://www.knotion.com",
+      "startDate": "2019-07-01",
+      "endDate": "2022-07-01",
+      "summary": "Conducted Mathematical Quality Assurance, ensuring error-free content through meticulous reviews. Proactively engaged with authors for collaborative problem resolution and assisted in resource creation. As Translation Liaison, facilitated seamless communication between teams. Ensured final resource integrity through comprehensive English and Spanish verification, emphasizing functionality and adherence to the author's intent.",
+      "highlights": [
+        "Quality Assurance",
+        "Attention to Detail",
+        "Spanish to English Translation",
+        "Reporting and Accurate Tracking"
+      ]
+    },
+
+
+    {
+      "company": "Universidad Latina de América & Universidad Michoacana de San Nicolás de Hidalgo",
+      "position": "Mathematics Teacher",
+      "website": "https://drive.google.com/drive/folders/1HST7kICfGkxNtMyIBqdTsYoLZYW3hYGZ?usp=share_link",
+      "startDate": "2019-09-01",
+      "endDate": "2022-08-01",
+      "summary": "Made use of Active Methodologies to impart in-depth knowledge of Algebra, Geometry, Probability, Statistics, Trigonometry, Analytic Geometry, Differential Calculus, and Integral Calculus. I was teaching in both: Remotely and On-site. Expertly communicated complex ideas in a simplified manner, offering guidance and facilitating effective training sessions. You can read a few of my reviews from  the link provided in the title of this position.",
+      "highlights": [
+        "Communicate complex ideas in a simple manner",
+        "Teaching"
+      ]
+    },
+
+
+
+    {
+      "company": "Koe Dubbing Masters México",
+      "position": "Recording Engineer",
+      "website": "https://doblaje.fandom.com/es/wiki/Koe_Dubbing_Masters_México",
+      "startDate": "2021-12-01",
+      "endDate": "2023-08-01",
+      "summary": "leveraging recording expertise using Pro Tools to ensure impeccable sound reproduction and synchronization of dialogue, sound effects, and music. Recorded and mixed audio elements, collaborating with the dubbing director, actors and localization team. Conducted rigorous quality checks to identify and rectify audio discrepancies, contributing to an enhanced viewer audiovisual experience.",
+      "highlights": [
+        "Quality Assurance",
+        "Audio Expertise",
+        "Recording, Mixing, Master & Editing",
+        ""
+      ]
+    },
+
+
+
+    {
+      "company": "Manu Romo",
+      "position": "Artist: Performer",
+      "website": "./art",
+      "startDate": "2023-01-01",
+      "endDate": "",
+      "summary": "I adeptly blend musical prowess with a rich educational journey, mastering guitar, vocals, music production, and storytelling. From the prestigious Conservatorio de las Rosas to the Vocal Ensemble of l'École Polytechnique, my technique, style and performance has evolved. As a composer, vocalist and actor, I focus in developing myself as a musical theater performer and storyteller.",
+      "highlights": [
+        "Creativity",
+        "Self-Motivation",
+        "Spoken Word Professional",
+        "Storytelling"
+      ]
+    }
+  ],
+    
+    
+    
+    
+    
+
+
+
+
+
+
+  "research": [
+    {
+      "company": "INFRES - Télécom Paris",
+      "topic": "Anonymous Shared-Memory Computation",
+      "startDate": "2018-03-01",
+      "summary": "Yanag-isawa proved that in non-color tasks, anonymity does not reduce the power of the asynchronous shared memory model. We propose two anonymous models in which it is possible to express more general tasks and we propose an anonymous implementation of immediate snapshots that allow us to use topology for study."
+    },
+
+
+    {
+      "company": "INRIA - Palaiseau",
+      "topic": "Topological Methods in Distributed Computing: Optimal Concurrency and Directed Geometric Semantics",
+      "startDate": "2017-03-01",
+      "summary": "Optimal Concurrency and Directed Geometric Semantics Based on Gramoli, Kuznetsov and Ravi’s paper ”In the Search for Optimal Concurrency” [Structural Information and Communication Complexity. SIROCCO 2016. Lecture Notes in Computer Science, vol 9988. Springer, Cham], we are trying to search for the geometrical interpretation (in Directed Semantics) for LS-Linearizable correctness notion and to see if is possible to measure and compare two implementations using distinct synchronization techniques within this interpretation."
+    },
+
+
+    {
+      "company": "UMSNH & UNAM",
+      "topic": "Fair Division Geometry",
+      "startDate": "2015-09-01",
+      "summary": "I got a new result on Geometry of Efficient Fair Division. We can divide a cake without all absolutely continuous measures into O(n2) cakes with all measures absolutely continuous respect to the other measures."
+    },
+
+
+
+    {
+      "company": "UNAM - Juriquilla",
+      "topic": "Convex Pens",
+      "startDate": "2014-12-01",
+      "summary": "We studied generalizations of the following problem: we want to divide the plane into several convex components which we call “pens”. We know that at some point someone will destroy all the pens that intersect a straight line. Which is the configuration with fewer pens which ensures that remain 2 without destroying?"
+    },
+
+
+
+    {
+      "company": "UMSNH",
+      "topic": "Generating Combinatorial Objects Efficiently",
+      "startDate": "2013-01-01",
+      "summary": "We developed a library in C++ which provides fast and easy iterators to a few combinatorial objects. Some of the objects in the library are: Multisets, Subsets, Permutations, Combinations, Partitions, Catalan Paths, Motzkin Paths, etc."
+    }
+  ],
+
+
+
+
+
+
+    
+    
+    
+    
+  "education": [
+    {
+      "institution": "Université Paris-Saclay",
+      "area": "Computer Sciences",
+      "studyType": "Master",
+      "startDate": "2016-09-01",
+      "endDate": "2018-07-01",
+      "courses": [
+        "Topological Data Analysis",
+        "Computer Graphics and Visualization",
+        "Concurrency",
+        "Distributed Computing",
+        "Algorithms in Graphs",
+        "Computational Geometry",
+        "Logics: Artificial Intelligence"
+      ]
+    },
+
+    {
+      "institution": "Universidad Michoacana de San Nicolás de Hidalgo",
+      "area": "Physics and Mathematical Sciences",
+      "studyType": "Bachelor",
+      "startDate": "2010-09-01",
+      "endDate": "2015-12-01",
+      "courses": [
+        "Statistics",
+        "Probability",
+        "Databases",
+        "Programming Languages",
+        "Algorithms",
+        "Logics",
+        "Computational Geometry",
+        "Game Theory",
+        "Graphs, Networks and Algorithms"
+      ]
+    }
+  ],
+    
+    
+    
+    
+
+    
+    
+    
+  "publications": [
+    {
+      "name": "La importancia de saber matemáticas en tu cumpleaños",
+      "publisher": "Letras Nicolaitas",
+      "releaseDate": "2020-12-01",
+      "website": "https://epipor.mx/publicaciones/letras-nicolaitas-no-2",
+      "summary": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test."
+    }
+  ],
+
+    
+    
+    
+        
+    
+  "skills": [
+    {
+      "name": "Data Analysis",
+      "level": "Master",
+      "keywords": [
+        "ETL",
+        "Wrangling",
+        "Visualization",
+        "Presenting",
+        "API"
+      ]
+    },
+    {
+      "name": "Statistics",
+      "level": "Satisfactory",
+      "keywords": [
+        "Ingerential and Descriptive Statistics",
+        "Regression"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Master",
+      "keywords": [
+        "Python",
+        "SQL",
+        "Bash (Shell)",
+        "C/C++",
+        "Java"
+      ]
+    },
+        {
+      "name": "Software",
+      "level": "Satisfactory",
+      "keywords": [
+        "Tableau", "BigQuery", "Linux", "Excel", "LaTeX", "Google Sheets", "PowerPoint"
+      ]
+    },
+        {
+      "name": "Libraries",
+      "level": "Satisfactory",
+      "keywords": [
+        "Pandas", "Pymysql", "Matplotlib", "Statsmodels", "Requests"
+      ]
+    }
+  ],
+
+    
+    
+    
+    
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional: C1"
+    },
+    {
+      "language": "French",
+      "fluency": "Elementary"
+    }
+  ]
+    
+    
+    
+
 }
