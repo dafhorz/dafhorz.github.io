@@ -5,8 +5,7 @@ permalink: /data_projects/
 entries_layout: grid
 ---
 
-To by [categories].
-To by [skills].
+Filter by [categories].  |  Filter by [skills].
 
 
 
