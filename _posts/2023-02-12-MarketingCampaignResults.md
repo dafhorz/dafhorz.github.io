@@ -46,7 +46,7 @@ Here are the questions posted in the challenge:
 Questions 3 and 4 are easy to solve and to show through a chart (Tableau), but what seemed like a more interesting question, to me at least, was Q1. To address it, the first step was to finish with the data wrangling process, and then to search for clues by computing a correlation between variables. 
 
 <figure class="align-center">
-  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/MarketingCampaignResults/MarketingHeatMap.PNG" alt=""></a>
+  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/MarketingCampaignResults/MarketingHeatMap.png" alt=""></a>
   <figcaption>Correlation - Heat Map</figcaption>
 </figure>  
 
