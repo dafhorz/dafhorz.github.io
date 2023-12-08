@@ -25,7 +25,7 @@ In this project, I conducted an in-depth analysis of Googlebot crawls, assessed 
 : Examined the top 5,000 organic keywords for each of the top 10 geos (50,000 in total), including associated URLs, offering a detailed understanding of keyword performance in specific regions.
 
 **Conversions and Geo-Traffic Projection**
-: Segmented geographical traffic and applied conversion rates to project the potential growth from a traffic optimization strategy, yielding close to a 15% increase in overall conversions.
+: Segmented geographical traffic and applied conversion rates to project the potential growth from a traffic optimization strategy, yielding close to a 13% increase in overall conversions.
 
 **Web Crawling Analysis**
 :  Conducted an exhaustive examination of Googlebot crawls, allowing to detect landing webpages on an https 400s status and a high number of crawls landing on 304 status; which may be consuming unnecesary crawling budget (up to 60,000 crawls monthly).

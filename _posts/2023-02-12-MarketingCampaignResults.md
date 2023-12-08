@@ -32,7 +32,7 @@ In response to a Marketing Campaign Analysis challenge, I conducted a robust ETL
 : Utilized statistical analysis to answer key business questions and presented the findings through an interactive Tableau dashboard.
 
 **Developed an ETL Pipeline**
-: Executed a full ETL (Extract, Transform, Load) pipeline for a Marketing Campaign dataset with 2,240 customers.
+: Analyzed customer behavior and trends from 2,240 profiles, and provided a full ETL pipeline.
 
 ## Details
 'Maven Analytics' uploaded a Marketing Campaign dataset (2,240 customers) which includes customers profiles, product preferences, campaign successes (or failures) and performance. Following their recommendations as a guideline, I did a whole ETL pipeline process: extracted the data, cleaned and transformed the dataset using Pandas, exported the processed file (as CSV) and loaded the set to MySQL (through pymsql). 

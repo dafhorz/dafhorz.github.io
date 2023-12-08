@@ -19,10 +19,10 @@ Utilized Excel for comprehensive data analysis and error rectification in an Int
 
 ## Achievements
 **Cost savings**
-: Identified several errors in billing data, resulting in an annual savings of 73,304 Quetzales or 9.5k USD (assuming a linear behaviour under a constant workload).
+: Found billing errors that could overcharge 73,304 Quetzales or $9.5k annually. Fixed issues to protect the consultancy's reputation and prevent legal problems.
 
 **Insights**
-: Popular sectors, profitable clients, key services, and employee productivity, leading to strategic recommendations for business enhancement.
+: Detected Popular sectors, profitable clients, key services, and employee productivity, leading to strategic recommendations for business enhancement.
 
 **Proactive Error Strategies**
 :  Introduced proactive error strategies by analyzing date patterns and incomplete records, addressing potential issues.
